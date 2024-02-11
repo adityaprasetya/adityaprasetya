@@ -5,6 +5,6 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 
 ## Find me around the web 🌎: <img align="left" width="150" height="180" src="https://raw.githubusercontent.com/adityaprasetya/adityaprasetya/master/pp.jpg"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">aditya.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/aditya-prasetya-suryana/">LinkedIn</a> 💼
